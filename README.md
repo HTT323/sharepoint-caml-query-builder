@@ -1,4 +1,4 @@
-sharepoint-caml-query-builder
+SharePoint CAML Query Builder
 =============================
 
 SharePoint CAML Query Builder
